@@ -1,7 +1,7 @@
 # Bigcontest
 **(Competition to discover people who are telented in Big Data by freely leverage the data that the company has to offer new business models and new ideas)**
 > Hosted by Korea Information Society Agency
-> , Homepage : https://www.bigcontest.or.kr/
+, Homepage : https://www.bigcontest.or.kr/
 
 ### Subject
 - Do "Aircraft Delay Forecast", using past airplane opreational data in Korea from 2017 to 2019.
