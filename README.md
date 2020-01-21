@@ -1,6 +1,9 @@
-# Baesung_Kim_Bigcontest
+# Bigcontest
+**(Competition to discover people who are telented in Big Data by freely leverage the data that the company has to offer new business models and new ideas)**
+> Hosted by Korea Information Society Agency
+> Homepage : https://www.bigcontest.or.kr/
 
-### Quests
+### Subject
 - Do "Aircraft Delay Forecast", using past airplane opreational data in Korea from 2017 to 2019.
 - Forecast real aircaft operations from 09/16/2019 to 09/30/2019 are dalay or not via development of "aircraft delay forecasting model" 
 
