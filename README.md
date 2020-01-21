@@ -1,1 +1,21 @@
 # Baesung_Kim_Bigcontest
+
+## Contest
+
+### Quests
+- Do "Aircraft Delay Forecast", using past airplane opreational data in Korea from 2017 to 2019.
+- Forecast real aircaft operations from 09/16/2019 to 09/30/2019 are dalay or not via development of "aircraft delay forecasting model" 
+
+### Data explanations
+
+#### AFSNT.CSV
+> 2017.01.01 ~ 2019.06.30 airplane operation data (train data)
+
+#### AFSNT_DLY.CSV
+> 2019.09.16 ~ 2019.30 test data
+
+#### SFSNT.CSV
+> 2019.07 ~ 2019.09 Schedule of aircraft operations
+
+#### weather_superfinal.CSV
+> 2005.01 ~ 2019.09 weather observation statistics near by the airports 
