@@ -2,26 +2,32 @@
 **(Competition to discover people who are telented in Big Data by freely leverage the data that the company has to offer new business models and new ideas)**
 > Hosted by Korea Information Society Agency
 
-Homepage : https://www.bigcontest.or.kr/
+> Homepage : https://www.bigcontest.or.kr/
 
-### Subject
+## Subject
 - Do "Aircraft Delay Forecast", using past airplane opreational data in Korea from 2017 to 2019.
 - Forecast real aircaft operations from 09/16/2019 to 09/30/2019 are dalay or not via development of "aircraft delay forecasting model" 
 
-### Data
+## Data
 
-#### AFSNT.CSV
+### AFSNT.CSV
 > 2017.01.01 ~ 2019.06.30 airplane operation data (train data)
 
-#### AFSNT_DLY.CSV
+### AFSNT_DLY.CSV
 > 2019.09.16 ~ 2019.30 test data
 
-#### SFSNT.CSV
+### SFSNT.CSV
 > 2019.07 ~ 2019.09 Schedule of aircraft operations
 
-#### weather_superfinal.CSV
+### weather_superfinal.CSV
 > 2005.01 ~ 2019.09 weather observation statistics near by the airports 
 
-### Contents
+## Contents
+Number | Contesnts
+------------ | -------------
+01 ~ 10 | Feature Engineering
+11 ~ 13 | Customer Clustering
+14 | Presentation Material
 
-### Conect
+## Conect
+> **김배성(Baesung Kim) : qjqndi@gmail.com**
