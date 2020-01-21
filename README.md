@@ -25,9 +25,9 @@
 ## Contents
 Number | Contesnts
 ------------ | -------------
-01 ~ 10 | Feature Engineering
-11 ~ 13 | Customer Clustering
-14 | Presentation Material
+01 | Feature Engineering & Modeling
+02 | Presentation Material
+03 ~ 06 | Data
 
 ## Conect
 > **김배성(Baesung Kim) : qjqndi@gmail.com**
